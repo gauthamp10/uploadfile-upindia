@@ -1,4 +1,4 @@
-# uploadcc-uploadindia
+# uploadfile-upindia
 This is a PHP based implementation for downloading files directly from https://uploadfile.cc/ or from https://upindia.mobi/ without viewing or clicking ads.
 
 ## Prerequisites
