@@ -14,4 +14,4 @@ download.php?url='url_of_uploadfile_or_upindia'
 download.php?url=https://uploadfile.cc/298340/WTcu1Jj
 ```
 ### Deployment
-Upload the php script to your server and then pass via GET['url'] to download files directly.
+Upload the download.php script to your server and then pass via GET['url'] to download files directly.
